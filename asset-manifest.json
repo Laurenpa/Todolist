@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Laurenpa/Todolist.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Laurenpa/Todolist.git/static/js/main.9a77feb6.chunk.js",
+    "main.js.map": "/Laurenpa/Todolist.git/static/js/main.9a77feb6.chunk.js.map",
+    "runtime-main.js": "/Laurenpa/Todolist.git/static/js/runtime-main.c036c1ac.js",
+    "runtime-main.js.map": "/Laurenpa/Todolist.git/static/js/runtime-main.c036c1ac.js.map",
+    "static/js/2.301046ce.chunk.js": "/Laurenpa/Todolist.git/static/js/2.301046ce.chunk.js",
+    "static/js/2.301046ce.chunk.js.map": "/Laurenpa/Todolist.git/static/js/2.301046ce.chunk.js.map",
+    "index.html": "/Laurenpa/Todolist.git/index.html",
+    "precache-manifest.7d2a609b0b765807ea27e388efbcd324.js": "/Laurenpa/Todolist.git/precache-manifest.7d2a609b0b765807ea27e388efbcd324.js",
+    "service-worker.js": "/Laurenpa/Todolist.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Laurenpa/Todolist.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.301046ce.chunk.js.LICENSE.txt": "/Laurenpa/Todolist.git/static/js/2.301046ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c036c1ac.js",
+    "static/js/2.301046ce.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.9a77feb6.chunk.js"
+  ]
+}
